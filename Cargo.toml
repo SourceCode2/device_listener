@@ -1,0 +1,7 @@
+[package]
+name = "device_listener"
+version = "0.1.0"
+authors = ["SourceCode2 <davidesofronia@gmail.com>"]
+
+[dependencies]
+colored = "1.6.0"
